@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio modulo 2
+Proyecto como crear un repositorio y clonarlo desde github a mi escritorio
